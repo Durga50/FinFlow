@@ -4,9 +4,41 @@ A clean, interactive finance dashboard built as part of the Zorvyn Frontend Deve
 
 ---
 
-## Live Demo
+## Demo
 
-> Open `index.html` directly in any modern browser — no server or installation needed.
+### Video Walkthrough
+https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/demo/sample.mp4
+
+> Download or click the link above to watch the full demo video.
+
+---
+
+## Screenshots
+
+### Dashboard — Dark Mode
+![Dashboard Dark](demo/dashboard-dark.png)
+
+### Dashboard — Light Mode
+![Dashboard Light](demo/dashboard-light.png)
+
+### Transactions
+![Transactions Dark](demo/transaction-dark.png)
+![Transactions Light](demo/transaction-light.png)
+
+### Add Transaction
+![Add Transaction](demo/add-transaction.png)
+
+### Edit Transaction
+![Edit Transaction](demo/edit-transction.png)
+
+### Insights — Dark Mode
+![Insights Dark](demo/insights-dark.png)
+
+### Insights — Light Mode
+![Insights Light](demo/insights-light.png)
+
+### Mobile View
+![Mobile](demo/mobile.png)
 
 ---
 
@@ -37,6 +69,17 @@ Then visit `http://localhost:8000`
 ```
 finflow/
 ├── index.html        # Entire application (single file)
+├── demo/             # Screenshots and demo video
+│   ├── dashboard-dark.png
+│   ├── dashboard-light.png
+│   ├── transaction-dark.png
+│   ├── transaction-light.png
+│   ├── add-transaction.png
+│   ├── edit-transction.png
+│   ├── insights-dark.png
+│   ├── insights-light.png
+│   ├── mobile.png
+│   └── sample.mp4
 └── README.md         # This file
 ```
 
@@ -152,5 +195,4 @@ All state is managed in plain JavaScript with clear separation:
 ## Author
 
 **Durga E**
-Frontend Developer Intern Candidate
 edurga02@gmail.com
