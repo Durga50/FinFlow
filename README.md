@@ -4,15 +4,6 @@ A clean, interactive finance dashboard built as part of the Zorvyn Frontend Deve
 
 ---
 
-## Demo
-
-### Video Walkthrough
-https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/demo/sample.mp4
-
-> Download or click the link above to watch the full demo video.
-
----
-
 ## Screenshots
 
 ### Dashboard — Dark Mode
