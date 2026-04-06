@@ -35,19 +35,9 @@ A clean, interactive finance dashboard built as part of the Zorvyn Frontend Deve
 
 ## Setup Instructions
 
-### Option 1 — Open Directly
+### Open Directly
 1. Download or clone this repository
 2. Open `index.html` in your browser
-
-### Option 2 — Local Server (optional, for best experience)
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js (npx)
-npx serve .
-```
-Then visit `http://localhost:8000`
 
 ### Requirements
 - Any modern browser (Chrome, Firefox, Edge, Safari)
